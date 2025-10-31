@@ -19,7 +19,7 @@ Auxiliar o Sr. João, dono da rede **Alura Store**, a decidir qual das suas 4 lo
 ## Como executar o projeto
 1. Faça o download ou cone deste repositório
    ```bash
-   git clone https://github.com/vanpontes/challenge1-alura-store.git
+   git clone https://github.com/vanrpontes/challenge1-alura-store.git
 2. Acesse o notebook principal:
    notebooks/analise_alura_store.ipynb
 3. Abra o arquivo no [Google Colab](colab.reserach.google.com)
