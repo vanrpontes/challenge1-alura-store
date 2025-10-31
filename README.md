@@ -1,5 +1,5 @@
 # Challenge 1 Alura Store
-Análise descritiva de dados com Python e Pandas a partir de um estudo de caso da Alura Store. Projeto desenvolvido no **programa ONE (Oracle Next Education)** em parceria com a **Alura**, com foco em consolidar conhecimentos práticos em **Python, Pandas e Estatística Descritiva**.
+Análise descritiva de dados com Python e Pandas a partir de um estudo de caso da Alura Store. Projeto desenvolvido no **programa ONE (Oracle Next Education)** em parceria com a **Alura**, com foco em consolidar conhecimentos práticos em **Python, Pandas, Matplotlib e Estatística Descritiva**.
 
 ## O objetivo do desafio
 Auxiliar o Sr. João, dono da rede **Alura Store**, a decidir qual das suas 4 lojas vender, por meio de uma análise baseada em dados de **vendas, desempenho e avaliações**.
