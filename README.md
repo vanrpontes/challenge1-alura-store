@@ -24,7 +24,7 @@ Auxiliar o Sr. João, dono da rede **Alura Store**, a decidir qual das suas 4 lo
 - Interpretação e **recomendação baseada nos dados** 
 
 ## Como executar o projeto
-1. Faça o download ou cone deste repositório
+1. Faça o download ou clone deste repositório
    ```bash
    git clone https://github.com/vanrpontes/challenge1-alura-store.git
 2. Acesse o notebook principal:
