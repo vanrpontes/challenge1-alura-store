@@ -1,14 +1,21 @@
 # Challenge 1 Alura Store
-Análise descritiva de dados com Python e Pandas a partir de um estudo de caso da Alura Store. Projeto desenvolvido no **programa ONE (Oracle Next Education)** em parceria com a **Alura**, com foco em consolidar conhecimentos práticos em **Python, Pandas, Matplotlib e Estatística Descritiva**.
+Análise descritiva de dados com Python e Pandas a partir de um estudo de caso da Alura Store. Projeto desenvolvido no **programa ONE (Oracle Next Education)** uma parceria **Oracle** e **Alura**, com foco em consolidar conhecimentos práticos em **Python, Pandas, Matplotlib e Estatística Descritiva**.
 
 ## O objetivo do desafio
 Auxiliar o Sr. João, dono da rede **Alura Store**, a decidir qual das suas 4 lojas vender, por meio de uma análise baseada em dados de **vendas, desempenho e avaliações**.
 
+## Métricas utilizadas
+- Faturamento total de cada loja
+- Categorias mais populares
+- Média de avalição dos clientes
+- Produtos mais e menos populares
+- Custo médio do frete
+
 ## Tecnologias e bibliotecas usadas
-- Python
+- Python (ambiente Google Colab)
 - Pandas
 - Matplotlib
-- Google Colab
+- Git e Github
 
 ## Habilidades praticadas
 - Carregamento e tratamento de dados com **Pandas**  
@@ -32,6 +39,6 @@ O relatório completo com as análises, gráficos e recomendações está dispon
 
 **Dados fornecidos pela Alura**
 **Desenvolvido por Vanclercio da Rocha Pontes.**
-Contador e Analista de Dados | Estudante do programa ONE (Oracle + Alura)  
+Analista de Dados | Contador | Estudante do programa ONE (Oracle / Alura)  
 📍 Brasil  
 🔗 [LinkedIn](https://www.linkedin.com/in/vanrpontes/)
