@@ -33,7 +33,7 @@ Auxiliar o Sr. João, dono da rede **Alura Store**, a decidir qual das suas 4 lo
 4. Execute as células sequencialmente para reproduzir as análises e visualizar os gráficos
 
 Conclusões finais
-O relatório completo com as análises, gráficos e recomendações está disponível no link abaixo:
+O relatório completo com as análises, gráficos e recomendações está disponível no link abaixo: relatorio/Relatório Challenge Alura Store.pdf
 
 [Acessar relatório em PDF](./relatorios/relatorio_final_alura_store.pdf)
 
